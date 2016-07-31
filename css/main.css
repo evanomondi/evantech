@@ -80,8 +80,8 @@
 
   .btn-common {
     font-size: 14px;
-    color: #0099ae;
-    border: 1px solid #0099ae;
+    color: #3d2e36;
+    border: 1px solid #3d2e36;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     padding: 10px 25px;
@@ -101,8 +101,8 @@
     outline: none;
     background: none;
     box-shadow: none;
-    color: #01707f;
-    border-color:#01707f;
+    color: #3d2e36;
+    border-color:#3d2e36;
   }
 
   .align-right{
@@ -1246,19 +1246,19 @@ Portfolio with right sidebar
 .categories .navbar-stacked li a:hover{
   background: none;
   margin-left: 20px;
-  color: #0099AE;
+  color: #3d2e36;
   opacity: 1;
 }
 
 .categories .navbar-stacked li.active a{
-  color: #0099AE;
+  color: #3d2e36;
   padding-left: 20px;
 }
 
 .categories .navbar-stacked li.active a:before{
   position: absolute;
   content: "";
-  border-color: transparent transparent transparent #0099AE;
+  border-color: transparent transparent transparent #3d2e36;
   border-width: 8px;
   border-style: solid;
   left: 0;
@@ -1304,7 +1304,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover{
-  border-left: 2px solid #0099AE;
+  border-left: 2px solid #3d2e36;
   padding-left: 5px;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -1313,7 +1313,7 @@ Portfolio with right sidebar
 }
 
 .sidebar-item .media:hover.media .media-body h4 a{
-  color: #0099AE;
+  color: #3d2e36;
   transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -webkit-transition: all 0.3s ease 0s;
@@ -1355,7 +1355,7 @@ Portfolio with right sidebar
 }
 
 .tag-cloud .nav-pills li a:hover{
-  background: #0099AE;
+  background: #3d2e36;
 }
 
 .popular ul.gallery {
@@ -1580,7 +1580,7 @@ Blog Default
   border-left-style: solid;
   border-left-width: 1px;
   height: 100%;
-  border-left-color: #0099AE;
+  border-left-color: #3d2e36;
   left: 50%;
   margin-left: -2px;
 }
@@ -1646,16 +1646,16 @@ Blog Default
 .post-content  .post-author a{
   font-weight: 300;
   font-size: 14px;
-  color: #0099AE;
+  color: #3d2e36;
 }
 
 a.read-more{
-  color: #0099AE;
+  color: #3d2e36;
   font-weight: 300;
 }
 
 a.read-more:hover{
-  color: #01707F
+  color: #3d2e36
 }
 
 .post-bottom{
@@ -1718,13 +1718,13 @@ Blog with right sidebar
 }
 
 .post-nav li a{
-  color: #0099AE;
+  color: #3d2e36;
   padding: 0;
   text-align: left;
 }
 
 .post-nav li a i{
-  color: #0099AE;
+  color: #3d2e36;
   margin-right: 8px;
 }
 
@@ -1851,7 +1851,7 @@ span.stButton_gradient,
 
 .author-profile .col-sm-2 img{
   width: 100%;
-  border-left: 3px solid #0099AE;
+  border-left: 3px solid #3d2e36;
 }
 
 .author-profile h3{
