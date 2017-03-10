@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="OLX INTRANET GADGET" />
+<Content type="html"><![CDATA[
+
+<center>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto">
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://olx.co.ke" imageanchor="1"><img alt="OLX" src="https://sites.google.com/a/olx.com/intranet-kenya/home/OLX_Logo-png.png" height="166" border="0" width="200"></a></div>
+<br>
+</div>
+<img src="https://sites.google.com/a/olx.com/intranet-kenya/home/Backdrop.png" usemap="#image-map">
+
+<map name="image-map">
+    
+<area target="_blank" alt="The OLX Group" coords="2,2,216,313" href="https://sites.google.com/a/naspersclassifieds.com/liveit-links/home?pli=1" shape="rect" title="The OLX Group">
+    
+<area target="_blank" alt="Requests Form" coords="218,1,528,312" href="https://docs.google.com/a/olx.com/forms/d/e/1FAIpQLSfw_yDaLLaP9I_0UTMbcumHmdrJjOmR6RIokRbXkyPTeymSFw/viewform" shape="rect" title="Requests Form">
+    
+<area target="_blank" alt="HR Portal" coords="530,0,797,424" href="https://www.payspace.com/" shape="rect" title="HR Portal">
+    
+<area target="_blank" alt="Expensify" coords="1,316,530,423" href="https://www.expensify.com/signin" shape="rect" title="Expensify">
+    
+<area target="_blank" alt="Fusion" coords="0,425,529,524" href="http://fusion.naspersgroup.com/" shape="rect" title="Fusion">
+    
+<area target="_blank" alt="Fusion Password Reset" coords="533,427,795,522" href="https://pass.naspersgroup.com" shape="rect" title="Fusion Password Reset">
+</map>
+
+<b>
+<p style="color:#4f2c7e">OLX INTRANET KENYA</p>
+</b>
+
+</center>
+
+
+]]></Content>
+</Module>
