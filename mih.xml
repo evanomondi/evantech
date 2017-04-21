@@ -8,21 +8,16 @@
 <div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://olx.co.ke" imageanchor="1"><img alt="OLX" src="https://sites.google.com/a/olx.com/intranet-kenya/home/OLX_Logo-png.png" height="166" border="0" width="200"></a></div>
 <br>
 </div>
-<img src="https://sites.google.com/a/olx.com/intranet-kenya/home/Backdrop.png" usemap="#image-map">
+<img src="https://drive.google.com/a/olx.com.ar/file/d/0B_zcVzk8zoAGOFlMbkJoX0FmSTg/view?usp=sharing" usemap="#image-map">
 
 <map name="image-map">
-    
-<area target="_blank" alt="The OLX Group" coords="2,2,216,313" href="https://sites.google.com/a/naspersclassifieds.com/liveit-links/home?pli=1" shape="rect" title="The OLX Group">
-    
-<area target="_blank" alt="Requests Form" coords="218,1,528,312" href="https://docs.google.com/a/olx.com/forms/d/e/1FAIpQLSfw_yDaLLaP9I_0UTMbcumHmdrJjOmR6RIokRbXkyPTeymSFw/viewform" shape="rect" title="Requests Form">
-    
-<area target="_blank" alt="HR Portal" coords="530,0,797,424" href="https://www.payspace.com/" shape="rect" title="HR Portal">
-    
-<area target="_blank" alt="Expensify" coords="1,316,530,423" href="https://www.expensify.com/signin" shape="rect" title="Expensify">
-    
-<area target="_blank" alt="Fusion" coords="0,425,529,524" href="http://fusion.naspersgroup.com/" shape="rect" title="Fusion">
-    
-<area target="_blank" alt="Fusion Password Reset" coords="533,427,795,522" href="https://pass.naspersgroup.com" shape="rect" title="Fusion Password Reset">
+    <area target="_blank" alt="The OLX Group" title="The OLX Group" href="https://sites.google.com/a/naspersclassifieds.com/liveit-links/home?pli=1" coords="1,0,217,312" shape="rect">
+    <area target="_blank" alt="Requests" title="Requests" href="https://docs.google.com/a/olx.com/forms/d/e/1FAIpQLSfw_yDaLLaP9I_0UTMbcumHmdrJjOmR6RIokRbXkyPTeymSFw/viewform" coords="218,7,530,286" shape="rect">
+    <area target="_blank" alt="Requests User Guide" title="Requests User Guide" href="https://docs.google.com/document/d/1gKOwLdBIqqbI4YxP0Q9HtwHyjCyQ2g1Gko1rx4jidJk/edit" coords="219,289,529,311" shape="rect">
+    <area target="_blank" alt="HR Portal" title="HR Portal" href="https://www.payspace.com/" coords="534,5,798,420" shape="rect">
+    <area target="_blank" alt="Expensify" title="Expensify" href="https://www.expensify.com/signin" coords="529,319,2,422" shape="rect">
+    <area target="_blank" alt="Fusion " title="Fusion " href="http://fusion.naspersgroup.com/" coords="4,426,531,521" shape="rect">
+    <area target="_blank" alt="Fusion Password Reset" title="Fusion Password Reset" href="pass.naspersgroup.com/" coords="797,520,535,425" shape="rect">
 </map>
 <span style="background-color:#EEEEEE">
 <strong>
