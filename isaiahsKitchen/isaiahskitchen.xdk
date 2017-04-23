@@ -1,0 +1,470 @@
+{
+  "project": {
+    "creationData": {
+      "type": "Import",
+      "projectTypeName": "com.intel.xdk.projecttype.jsapp",
+      "src": "",
+      "projectGuid": "ad23ab24-c39b-42fa-af47-9efed2644bc7",
+      "lastModifiedDate": 1492960766953,
+      "creationDate": 1492844162090
+    },
+    "testDirectory": "test",
+    "projectTags": [
+      "XDK-disallow-legacy-whitelist"
+    ],
+    "projectFiles": {
+      "xdk-publish-meta-data.json": {
+        "settings": {
+          "project": {
+            "XDK-not-deployed": "True"
+          }
+        }
+      }
+    },
+    "projectDirectories": {
+      "xdk": {
+        "settings": {
+          "project": {
+            "XDK-generated": "true"
+          }
+        }
+      }
+    },
+    "buildConfigurations": {
+      "Android": {
+        "platform_": "android",
+        "runtime_": "Crosswalk with Cordova 3.x",
+        "name_": "Android",
+        "preferences_": {
+          "android-minSdkVersion": "14",
+          "android-targetSdkVersion": "25",
+          "android-installLocation": "auto",
+          "android-signed": true,
+          "Orientation": "portrait",
+          "AndroidLaunchMode": "singleTop"
+        },
+        "isActive_": true,
+        "certificateId_": "AtJAZWFKhEiCkd0M1VRx3Q2",
+        "appName_": "isaiah's kitchen",
+        "appID_": "com.isaiahsKitchen.com",
+        "appAccess_": {
+          "mode": "whitelist",
+          "network": [
+            "*",
+            "cordova-plugin-whitelist",
+            "https://www.foodbooking.com/*"
+          ],
+          "intents": [],
+          "navigation": [],
+          "properties": {}
+        },
+        "addlPermissions_": "",
+        "icons_": [
+          {
+            "density": "ldpi",
+            "relPath": "package-assets/Icon-ldpi.png",
+            "width": 36,
+            "height": 36
+          },
+          {
+            "density": "mdpi",
+            "relPath": "package-assets/Icon-mdpi.png",
+            "width": 48,
+            "height": 48
+          },
+          {
+            "density": "hdpi",
+            "relPath": "package-assets/Icon-hdpi.png",
+            "width": 72,
+            "height": 72
+          },
+          {
+            "density": "xhdpi",
+            "relPath": "package-assets/Icon-xhdpi.png",
+            "width": 96,
+            "height": 96
+          }
+        ],
+        "splashes_": [],
+        "appVersion_": "1.00",
+        "appVersionCode_": "1",
+        "signed_": true,
+        "crosswalkVersion_": "19",
+        "cordovaCLIVersion_": "6.2.0",
+        "appDescription_": "Isaiah's Kitchen Food Ordering App",
+        "appAuthor_": "Evantech"
+      },
+      "iOS": {
+        "platform_": "ios",
+        "runtime_": "Cordova 3.x",
+        "name_": "iOS",
+        "preferences_": {
+          "deployment-target": "8.0",
+          "ios-configuration": "adhoc"
+        },
+        "isActive_": false,
+        "certificateId_": "",
+        "appName_": "isaiahskitchen",
+        "appID_": "com.isaiahsKitchen.com",
+        "appAccess_": {
+          "mode": "whitelist",
+          "network": [
+            "*"
+          ],
+          "intents": [],
+          "navigation": []
+        },
+        "addlPermissions_": "",
+        "icons_": [],
+        "splashes_": [],
+        "appVersion_": "0.0.1",
+        "iosProvs_": [],
+        "cordovaCLIVersion_": "6.2.0"
+      },
+      "Windows8": {
+        "platform_": "windows8",
+        "runtime_": "Cordova 3.x",
+        "name_": "Windows8",
+        "preferences_": {},
+        "isActive_": false,
+        "certificateId_": "",
+        "appName_": "isaiahskitchen",
+        "appID_": "not.yet.specified",
+        "appAccess_": {
+          "mode": "whitelist",
+          "network": [
+            "*"
+          ],
+          "intents": [],
+          "navigation": []
+        },
+        "addlPermissions_": "",
+        "icons_": [],
+        "splashes_": [],
+        "appVersion_": "0.0.0.1",
+        "cordovaCLIVersion_": "6.2.0"
+      },
+      "WebApp": {
+        "platform_": "webapp",
+        "runtime_": "W3C",
+        "name_": "WebApp",
+        "preferences_": {},
+        "isActive_": false,
+        "certificateId_": "",
+        "appVersion_": "0.0.1"
+      },
+      "Firefox": {
+        "platform_": "firefoxos",
+        "runtime_": "W3C on Firefox OS",
+        "name_": "Firefox",
+        "preferences_": {},
+        "isActive_": false,
+        "certificateId_": "",
+        "appVersion_": "0.0.1"
+      },
+      "Chrome": {
+        "platform_": "chromeos",
+        "runtime_": "W3C on Chrome OS",
+        "name_": "Chrome",
+        "preferences_": {},
+        "isActive_": false,
+        "certificateId_": "",
+        "appName_": "isaiahskitchen",
+        "appID_": "not.yet.specified",
+        "icons_": [],
+        "splashes_": [],
+        "appVersion_": "0.0.1"
+      },
+      "Facebook": {
+        "platform_": "facebook",
+        "runtime_": "W3C on Facebook",
+        "name_": "Facebook",
+        "preferences_": {},
+        "isActive_": false,
+        "certificateId_": "",
+        "appVersion_": "0.0.1"
+      },
+      "WP81": {
+        "platform_": "wp81",
+        "runtime_": "Cordova 3.x",
+        "name_": "WP81",
+        "preferences_": {},
+        "isActive_": true,
+        "certificateId_": "",
+        "appName_": "isaiahskitchen",
+        "appID_": "not.yet.specified",
+        "appAccess_": {
+          "mode": "whitelist",
+          "network": [
+            "*"
+          ],
+          "intents": [],
+          "navigation": []
+        },
+        "addlPermissions_": "",
+        "icons_": [],
+        "splashes_": [],
+        "appVersion_": "0.0.0.1",
+        "cordovaCLIVersion_": "6.2.0"
+      }
+    },
+    "serviceMethods": [],
+    "cordovaPluginsDirectory": "plugins",
+    "cordovaPlugins": [
+      {
+        "id": "onesignal-cordova-plugin-pgb-compat",
+        "name": "OneSignal Push Notifications PGB Compat",
+        "version": "2.0.10",
+        "originType": "repo",
+        "origin": "https://github.com/one-signal/OneSignal-Cordova-SDK.git",
+        "gitref": "PGB-Compat",
+        "subdir": ".",
+        "paramvals": {},
+        "sourceLocation": "plugins/onesignal-cordova-plugin-pgb-compat",
+        "selectedState": "Included",
+        "checksum": "b0b029a",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.3.0",
+        "author": "Josh Kasten",
+        "permissions": {
+          "android:name": [
+            "android.permission.INTERNET",
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.WAKE_LOCK",
+            "android.permission.VIBRATE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "$PACKAGE_NAME.permission.C2D_MESSAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            "com.amazon.device.messaging.permission.RECEIVE",
+            "$PACKAGE_NAME.permission.RECEIVE_ADM_MESSAGE"
+          ]
+        },
+        "description": "OneSignal is a high volume Push Notification service for mobile apps. In addition to basic notification delivery, OneSignal also provides tools to localize, target, schedule, A/B test, and automate notifications that you send.",
+        "data": {},
+        "dependedBy": [],
+        "custom": "true"
+      },
+      {
+        "id": "onesignal-cordova-dependencies-compat",
+        "name": "OneSignal Android Dependencies",
+        "version": "1.0.0",
+        "originType": "repo",
+        "origin": "https://github.com/OneSignal/OneSignal-Cordova-Dependencies-Compat",
+        "gitref": "",
+        "subdir": ".",
+        "paramvals": {},
+        "sourceLocation": "plugins/onesignal-cordova-dependencies-compat",
+        "selectedState": "Included",
+        "checksum": "9a4a5206",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.0.0",
+        "author": "Josh Kasten",
+        "permissions": {},
+        "description": "This addes required Android dependencies needed by OneSignal. Designed for Intel XDK to be used with onesignal-cordova-plugin-pgb-compat. Use onesignal-cordova-plugin instead if you not using Intel XDK.",
+        "data": {},
+        "dependedBy": [],
+        "custom": "true"
+      },
+      {
+        "id": "cordova-plugin-vibration",
+        "name": "Vibration",
+        "version": "2.1.1",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-vibration",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-vibration",
+        "selectedState": "Included",
+        "checksum": "cf9984de",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.1.0",
+        "permissions": {
+          "android:name": [
+            "android.permission.VIBRATE"
+          ]
+        },
+        "description": "Cordova Vibration Plugin",
+        "data": {},
+        "dependedBy": []
+      },
+      {
+        "id": "cordova-plugin-compat",
+        "name": "Compat",
+        "version": "1.0.0",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-compat",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-compat",
+        "selectedState": "Included",
+        "checksum": "61c62eb",
+        "dependsOn": [],
+        "topLevel": false,
+        "permissions": {},
+        "description": "Cordova Compatibility Plugin",
+        "data": {},
+        "dependedBy": [
+          "cordova-plugin-geolocation"
+        ],
+        "custom": "true"
+      },
+      {
+        "id": "cordova-plugin-geolocation",
+        "name": "Geolocation",
+        "version": "2.2.0",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-geolocation",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-geolocation",
+        "selectedState": "Included",
+        "checksum": "ec466374",
+        "dependsOn": [
+          "cordova-plugin-compat"
+        ],
+        "topLevel": true,
+        "permissions": {
+          "android:name": [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            "android.permission.ACCESS_FINE_LOCATION"
+          ]
+        },
+        "description": "Cordova Geolocation Plugin",
+        "data": {},
+        "dependedBy": []
+      },
+      {
+        "id": "cordova-plugin-x-socialsharing",
+        "name": "SocialSharing",
+        "version": "5.1.7",
+        "originType": "repo",
+        "origin": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
+        "gitref": "",
+        "subdir": ".",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-x-socialsharing",
+        "selectedState": "Included",
+        "checksum": "2148cb72",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.0.0",
+        "author": "Eddy Verbruggen",
+        "permissions": {
+          "android:name": [
+            "android.permission.WRITE_EXTERNAL_STORAGE"
+          ]
+        },
+        "description": "\r\n    Share text, images (and other files), or a link via the native sharing widget of your device.\r\n    Android is fully supported, as well as iOS 6 and up. WP8 has somewhat limited support.\r\n  ",
+        "data": {},
+        "dependedBy": []
+      },
+      {
+        "id": "cordova-plugin-inappbrowser",
+        "name": "InAppBrowser",
+        "version": "1.4.0",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-inappbrowser",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-inappbrowser",
+        "selectedState": "Included",
+        "checksum": "f88bc51f",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.1.0",
+        "permissions": {},
+        "description": "Cordova InAppBrowser Plugin",
+        "data": {},
+        "dependedBy": []
+      },
+      {
+        "id": "cordova-plugin-splashscreen",
+        "name": "Splashscreen",
+        "version": "3.2.2",
+        "originType": "cordova.io",
+        "origin": "cordova-plugin-splashscreen",
+        "gitref": "",
+        "paramvals": {},
+        "sourceLocation": "plugins/cordova-plugin-splashscreen",
+        "selectedState": "Included",
+        "checksum": "47137083",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.1.0",
+        "permissions": {},
+        "description": "Cordova Splashscreen Plugin",
+        "data": {},
+        "dependedBy": []
+      },
+      {
+        "id": "pushwoosh-cordova-plugin",
+        "name": "Pushwoosh",
+        "version": "6.5.1",
+        "originType": "repo",
+        "origin": "https://github.com/Pushwoosh/pushwoosh-phonegap-plugin.git",
+        "gitref": "6.5.1",
+        "subdir": ".",
+        "paramvals": {
+          "LOG_LEVEL": "DEBUG",
+          "IOS_FOREGROUND_ALERT_TYPE": "NONE",
+          "ANDROID_FOREGROUND_PUSH": "false"
+        },
+        "sourceLocation": "plugins/pushwoosh-cordova-plugin",
+        "selectedState": "Included",
+        "checksum": "620b81ab",
+        "dependsOn": [],
+        "topLevel": true,
+        "cordovaVersion": ">=3.3.0",
+        "permissions": {
+          "android:name": [
+            "android.permission.ACCESS_NETWORK_STATE",
+            "android.permission.VIBRATE",
+            "android.permission.INTERNET",
+            "android.permission.WAKE_LOCK",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "$PACKAGE_NAME.permission.C2D_MESSAGE",
+            "com.google.android.c2dm.permission.RECEIVE",
+            "com.sec.android.provider.badge.permission.READ",
+            "com.sec.android.provider.badge.permission.WRITE",
+            "com.htc.launcher.permission.READ_SETTINGS",
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            "android.permission.READ_APP_BADGE",
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            "com.oppo.launcher.permission.WRITE_SETTINGS"
+          ]
+        },
+        "description": "\r\n\t\tThis plugin allows you to send and receive push notifications. Powered by Pushwoosh (www.pushwoosh.com).\r\n\t",
+        "data": {},
+        "dependedBy": [],
+        "custom": "true"
+      }
+    ],
+    "sourceDirectory": "www",
+    "startFile": "index.html",
+    "projectSettingsVersion": "3.0.0"
+  }
+}

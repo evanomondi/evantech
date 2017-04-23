@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "onesignal-cordova-plugin-pgb-compat": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "onesignal-cordova-dependencies-compat": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "HelloCordova"
+        },
+        "pushwoosh-cordova-plugin": {
+            "LOG_LEVEL": "DEBUG",
+            "IOS_FOREGROUND_ALERT_TYPE": "NONE",
+            "ANDROID_FOREGROUND_PUSH": "false",
+            "PACKAGE_NAME": "HelloCordova"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "HelloCordova"
+        }
+    }
+}

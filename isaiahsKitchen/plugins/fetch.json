@@ -1,0 +1,80 @@
+{
+    "onesignal-cordova-plugin-pgb-compat": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/one-signal/OneSignal-Cordova-SDK.git",
+            "subdir": ".",
+            "ref": "PGB-Compat"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "onesignal-cordova-dependencies-compat": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/OneSignal/OneSignal-Cordova-Dependencies-Compat",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-vibration": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Evan\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-vibration"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-geolocation": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Evan\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-geolocation"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-compat": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Evan\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-compat"
+        },
+        "is_top_level": false,
+        "variables": {}
+    },
+    "cordova-plugin-x-socialsharing": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Evan\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-inappbrowser"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-splashscreen": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\Evan\\AppData\\Local\\Intel\\XDK\\xdk\\components\\server\\cordova\\cordova-plugins\\cordova-plugin-splashscreen"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "pushwoosh-cordova-plugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Pushwoosh/pushwoosh-phonegap-plugin.git",
+            "subdir": ".",
+            "ref": "6.5.1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

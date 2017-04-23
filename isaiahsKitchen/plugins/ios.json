@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "onesignal-cordova-plugin-pgb-compat": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "onesignal-cordova-dependencies-compat": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
+        "pushwoosh-cordova-plugin": {
+            "LOG_LEVEL": "DEBUG",
+            "IOS_FOREGROUND_ALERT_TYPE": "NONE",
+            "ANDROID_FOREGROUND_PUSH": "false",
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        }
+    }
+}
